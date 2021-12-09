@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/drawable/circle_green.xml" value="0.37083333333333335" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.37083333333333335" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/drawable/outline.xml" value="0.36512820512820515" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/drawable/recive_drwalble.xml" value="0.37083333333333335" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/drawable/sent_drwalble.xml" value="0.37083333333333335" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/layout/activity_chat.xml" value="0.3401268115942029" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/layout/activity_main.xml" value="0.3125" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/layout/activity_otp.xml" value="0.2817028985507246" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/layout/activity_phonenumber_main.xml" value="0.29528985507246375" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/layout/activity_set_upprofile.xml" value="0.2595108695652174" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/layout/item_recive.xml" value="0.4" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/layout/item_recivedrawable.xml" value="0.33605072463768115" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/layout/itemsent.xml" value="0.536" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/layout/row_conversation.xml" value="0.264" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/menu/menu.xml" value="0.3546875" />
+        <entry key="..\:/Android_projects/ChatApp2/app/src/main/res/menu/topmenu.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
